@@ -1,6 +1,6 @@
 # main.py -- entrypoint for news-image-20261119 (stdlib only).
-# Copies the procedurally drawn entry.png from this repo to the
-# output directory the grader provides. Byte-identical every run.
+# Copies entry.png from this repo to the output directory the grader
+# provides. Byte-identical every run.
 import os
 import shutil
 
